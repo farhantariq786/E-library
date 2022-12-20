@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\farhan o99\\farhan o99\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\farhan o99\\farhan o99\\wwwroot\\images\\background5.jpg",
+      "PackagePath": "staticwebassets\\images\\background5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\farhan o99\\farhan o99\\wwwroot\\images\\e-library.png",
+      "PackagePath": "staticwebassets\\images\\e-library.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\farhan o99\\farhan o99\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\farhan o99\\farhan o99\\wwwroot\\images\\logo1-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\logo1-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\farhan o99\\farhan o99\\wwwroot\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\farhan o99\\farhan o99\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\farhan o99\\farhan o99\\wwwroot\\images\\logo3.jpg",
+      "PackagePath": "staticwebassets\\images\\logo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\farhan o99\\farhan o99\\wwwroot\\images\\video.mp4",
+      "PackagePath": "staticwebassets\\images\\video.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.farhan o99.props",
+      "PackagePath": "build\\farhan o99.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.farhan o99.props",
+      "PackagePath": "buildMultiTargeting\\farhan o99.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.farhan o99.props",
+      "PackagePath": "buildTransitive\\farhan o99.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.farhan o99.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

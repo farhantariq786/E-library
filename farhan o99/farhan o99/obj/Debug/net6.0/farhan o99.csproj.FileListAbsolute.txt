@@ -1,0 +1,29 @@
+C:\Users\HP\source\repos\farhan o99\farhan o99\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\source\repos\farhan o99\farhan o99\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\source\repos\farhan o99\farhan o99\bin\Debug\net6.0\farhan o99.staticwebassets.runtime.json
+C:\Users\HP\source\repos\farhan o99\farhan o99\bin\Debug\net6.0\farhan o99.exe
+C:\Users\HP\source\repos\farhan o99\farhan o99\bin\Debug\net6.0\farhan o99.deps.json
+C:\Users\HP\source\repos\farhan o99\farhan o99\bin\Debug\net6.0\farhan o99.runtimeconfig.json
+C:\Users\HP\source\repos\farhan o99\farhan o99\bin\Debug\net6.0\farhan o99.dll
+C:\Users\HP\source\repos\farhan o99\farhan o99\bin\Debug\net6.0\farhan o99.pdb
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\farhan o99.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\farhan o99.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\farhan o99.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\farhan o99.AssemblyInfo.cs
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\farhan o99.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\farhan o99.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\farhan o99.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\farhan o99.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\staticwebassets\msbuild.farhan o99.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\staticwebassets\msbuild.build.farhan o99.props
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.farhan o99.props
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.farhan o99.props
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\scopedcss\bundle\farhan o99.styles.css
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\farhan o99.dll
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\refint\farhan o99.dll
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\farhan o99.pdb
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\farhan o99.genruntimeconfig.cache
+C:\Users\HP\source\repos\farhan o99\farhan o99\obj\Debug\net6.0\ref\farhan o99.dll
