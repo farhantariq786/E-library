@@ -9,5 +9,6 @@ namespace ELibrary.Models
 
         }
         public DbSet<DataModel> DataModels { get; set; }
+        public DbSet<SigninModel> SigninModels { get; set; }    
     }
 }
